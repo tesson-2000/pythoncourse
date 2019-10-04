@@ -1,1 +1,3 @@
-print("welcome user")
+print("enter your name")
+a=input()
+print("welcome "+a)
